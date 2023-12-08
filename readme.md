@@ -1,4 +1,4 @@
-# DivCrust - Order Your Favorite Pizza
+# DivCrust - Order Your Favorite Pizza Instantly
 
 DivCrust is a fully-responsive web application designed to simplify the pizza ordering process. Users can enjoy a seamless experience with features such as adding/removing multiple pizzas, a user-friendly order form, and the option to use their current location as the delivery address. Additionally, users can prioritize their orders for faster delivery and receive a unique order ID for future reference.
 
